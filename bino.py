@@ -19,7 +19,7 @@ gm = float(input("Gamma m: "))
 
 a = (pow(2,-n))*((zl-z0)/(zl+z0))
 
-z = [z0,0,0,0,0,0]
+z = [z0,0,0,0,0,0]  #Order onusare change korte hbe
 i = 0
 while i < n:
     
